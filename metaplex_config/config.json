@@ -1,0 +1,28 @@
+{
+  "price": 0.1,
+  "number": 5,
+  "gatekeeper": null,
+  "solTreasuryAccount": "<YOUR NFT MANAGER WALLET ADDRESS>",
+  "goLiveDate": "25 Dec 2021 00:00:00 GMT",
+
+  "sellerFeeBasisPoints": 500,
+  "symbol": "5H",
+  "creators": [
+    {
+      "address": "<YOUR CREATOR WALLET ADDRESS>",
+      "share": 100
+    }
+  ],
+
+  "splTokenAccount": null,
+  "splToken": null,
+  "endSettings": null,
+  "whitelistMintSettings": null,
+  "hiddenSettings": null,
+  "uploadMethod": "bundlr",
+  "retainAuthority": true,
+  "isMutable": true,
+  "awsS3Bucket": null,
+  "nftStorageAuthToken": null,
+  "shdwStorageAccount": null
+}

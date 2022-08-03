@@ -1,0 +1,22 @@
+{
+    "name": "五等分のアレ",
+    "symbol": "5H",
+    "description": "五等分のアレなコレクション",
+    "image": "./assets/collection.png",
+    "seller_fee_basis_points": 500,
+    "attributes": [],
+    "properties": {
+        "creators": [
+            {
+              "address": "<YOUR CREATOR WALLET ADDRESS>",
+              "share": 100
+            }
+          ],
+        "files": [
+            {
+                "uri": "./assets/collection.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

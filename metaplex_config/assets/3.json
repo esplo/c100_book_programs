@@ -1,0 +1,31 @@
+{
+    "name": "四葉",
+    "symbol": "5H",
+    "description": "4/5",
+    "seller_fee_basis_points": 500,
+    "image": "3.png",
+    "attributes": [
+        {
+            "trait_type": "数",
+            "value": "33"
+        },
+        {
+            "trait_type": "理",
+            "value": "32"
+        }
+    ],
+    "properties": {
+        "creators": [
+            {
+                "address": "<YOUR CREATOR WALLET ADDRESS>",
+                "share": 100
+            }
+        ],
+        "files": [
+            {
+                "uri": "3.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

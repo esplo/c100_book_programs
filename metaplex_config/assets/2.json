@@ -1,0 +1,31 @@
+{
+    "name": "三玖",
+    "symbol": "5H",
+    "description": "3/5",
+    "seller_fee_basis_points": 500,
+    "image": "2.png",
+    "attributes": [
+        {
+            "trait_type": "数",
+            "value": "48"
+        },
+        {
+            "trait_type": "理",
+            "value": "41"
+        }
+    ],
+    "properties": {
+        "creators": [
+            {
+                "address": "<YOUR CREATOR WALLET ADDRESS>",
+                "share": 100
+            }
+        ],
+        "files": [
+            {
+                "uri": "2.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
